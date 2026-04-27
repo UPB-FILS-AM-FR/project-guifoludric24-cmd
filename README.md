@@ -41,7 +41,7 @@
 | [lib-name2](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
 
 ## Log
-
+j'ai ecrit la documentation
 <!-- write every week your progress here -->
 
 ### Week 6 - 12 May
